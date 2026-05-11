@@ -9,4 +9,4 @@ Our team had three student artists, all of whom were a little hesitant to contri
 It was a lot of fun watching the mutual excitement of the programmers and artists as the game combined our totally disparate skillsets. ("You made the seal cute!" "You made the seal move!")
 
 [Root Pig](https://ef5005.itch.io/root-pig)
-My first Global Game Jam project & first time working in Godot. I worked on digging functionality and did the menu screen.
+My first Global Game Jam project & first time working in Godot. I programmed the main menu and some UI functionality, such as displaying dug-up objects.
